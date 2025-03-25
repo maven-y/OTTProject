@@ -1,6 +1,10 @@
 A custom video player application built for Tizen (Samsung's operating system for smart TVs and other devices). 
 
-<img width="749" alt="Screenshot 2025-03-26 at 1 10 51 AM" src="https://github.com/user-attachments/assets/13b64b2a-4f53-4b5a-b980-c8b24ea48ebd" />
+
+
+Demo Video 
+
+https://github.com/maven-y/OTTProject/raw/refs/heads/main/emulator.mp4
 
 
 
@@ -8,6 +12,12 @@ Here's a summary of what the code does:
 
 ### HTML Structure (index.html):
 Creates a video player container with a video element
+
+
+
+<img width="749" alt="Screenshot 2025-03-26 at 1 10 51 AM" src="https://github.com/user-attachments/assets/13b64b2a-4f53-4b5a-b980-c8b24ea48ebd" />
+
+
 
 Includes custom controls for:
 1. Play/Pause
