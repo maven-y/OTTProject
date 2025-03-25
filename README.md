@@ -1,3 +1,9 @@
+### IDE Tizen Studio 6.0 
+
+### Project Environment :
+### Samsung TV 9.0 Resolution 1080x1920
+
+
 A custom video player application built for Tizen (Samsung's operating system for smart TVs and other devices). 
 
 
